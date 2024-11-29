@@ -1,0 +1,57 @@
+# Site Information
+site_name: L!ft Off
+site_url: https://dev3l.github.io/lift-off/
+site_author: Justin Beall
+site_description: "AI-powered website creation delivering stunning results in 72 hours."
+
+# Theme Configuration
+theme:
+  name: material
+  palette:
+    scheme: <tbd>
+    primary: <tbd> (red, pink,purple,deep purple,indigo,blue,light blue,cyan,teal,green,light green,lime,yellow,amber,orange,deep orange,brown,grey,blue grey,black, white)
+
+  font:
+    header: "Dank Mono"
+    text: <tbd>
+  favicon: "images/favicon.png"
+  logo: "images/logo.png"
+
+# Navigation Structure
+nav:
+  - Home: index.md
+  - About: about.md
+  - Contact: contact.md
+
+# Plugins
+plugins:
+  - search
+  - macros
+  - ultralytics:
+      verbose: true
+      enabled: true
+      add_desc: true
+      add_image: true
+      add_keywords: true
+      add_json_ld: true
+      add_css: true
+  - minify_html
+
+# Markdown Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - footnotes
+
+# Extra CSS
+extra_css:
+  - stylesheets/extra.css
+
+# Extra JavaScript
+extra_javascript:
+  - overrides/footer.js
