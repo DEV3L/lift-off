@@ -95,12 +95,10 @@ Check out some of the stunning websites we've launched:
 
 ---
 
-## **Ready to Take the Next Step?**
+## **Launch Your Brand with L!ft Off**
 
-<img src="images/cta-pathway.png" alt="A glowing digital pathway with vibrant green and blue tiles leading to a futuristic skyline, symbolizing the transformative journey with L!ft Off" style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px;">
+<img src="../images/cta-pathway.png" alt="A glowing digital pathway representing transformation with L!ft Off" style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px;">
 
-At **L!ft Off**, every moment counts. Transform your vision into a reality in just 72 hours. We're ready when you are.
+With **L!ft Off**, the possibilities are endless. Start your journey today and bring your vision to life.
 
-[Visit Our Contact Page](contact.md) to take the next step.
-
-> L!ft Off isn’t just a service—it’s the start of your digital transformation.
+> _L!ft Off: Transforming Ideas, One Website at a Time._
