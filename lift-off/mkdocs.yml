@@ -8,12 +8,12 @@ site_description: "AI-powered website creation delivering stunning results in 72
 theme:
   name: material
   palette:
-    scheme: <tbd>
-    primary: <tbd> (red, pink,purple,deep purple,indigo,blue,light blue,cyan,teal,green,light green,lime,yellow,amber,orange,deep orange,brown,grey,blue grey,black, white)
+    scheme: slate
+    primary: teal
 
   font:
     header: "Dank Mono"
-    text: <tbd>
+    text: Montserrat
   favicon: "images/favicon.png"
   logo: "images/logo.png"
 
