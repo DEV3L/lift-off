@@ -21,9 +21,9 @@ date: "2024-11-29"
 
 At **L!ft Off**, we believe that your brand should be a true reflection of your vision. Whether you dream of:
 
-- **Cartoon zombies** marching toward success,
-- **Faith-based designs** that inspire hope,
-- Or **Pokémon-themed creativity** that sparks joy,
+- **Cartoon zombies** marching toward success
+- **Faith-based designs** that inspire hope
+- Or **Pokémon-themed creativity** that sparks joy
 
 We’re here to bring your ideas to life—fast, fun, and exactly the way you want them.
 
@@ -103,28 +103,12 @@ Every website begins with your vision. Here’s how we bring it to life:
 
 ---
 
-## **Customer Spotlight**
-
-We’ve built websites for a wide range of clients, including:
-
-- **Faith-based organizations:** _Spreading hope through inspiring digital designs._
-- **Creative businesses:** _Cartoon-inspired websites that entertain and engage._
-- **Startups and non-profits:** _Affordable, professional sites that drive impact._
-
----
-
-## **What’s Next?**
-
-Your website is your brand’s first impression. Let **L!ft Off** make it extraordinary. Ready to get started?
-
-[Visit Our Contact Page](contact.md) to begin your journey today.
-
----
-
 ## **Launch Your Brand with L!ft Off**
 
 <img src="../images/cta-pathway.png" alt="A glowing digital pathway representing transformation with L!ft Off" style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px;">
 
 With **L!ft Off**, the possibilities are endless. Start your journey today and bring your vision to life.
+
+[Visit Our Contact Page](contact.md) to begin your journey today.
 
 > _L!ft Off: Transforming Ideas, One Website at a Time._

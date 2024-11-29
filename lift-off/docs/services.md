@@ -106,4 +106,6 @@ We believe in creating websites that perfectly match your vision. **No commitmen
 
 With **L!ft Off**, the possibilities are endless. Start your journey today and bring your vision to life.
 
+[Visit Our Contact Page](contact.md) to begin your journey today.
+
 > _L!ft Off: Transforming Ideas, One Website at a Time._

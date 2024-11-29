@@ -92,13 +92,16 @@ Check out some of the stunning websites we've launched:
 
 - [Jacob's House](https://dev3l.github.io/jacobs-house/)
 - [Ephraim Designs](https://dev3l.github.io/ephraim-designs/)
+- [L!ft Off](https://dev3l.github.io/lift-off/)
 
 ---
 
 ## **Launch Your Brand with L!ft Off**
 
-<img src="../images/cta-pathway.png" alt="A glowing digital pathway representing transformation with L!ft Off" style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px;">
+<img src="images/cta-pathway.png" alt="A glowing digital pathway representing transformation with L!ft Off" style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px;">
 
 With **L!ft Off**, the possibilities are endless. Start your journey today and bring your vision to life.
+
+[Visit Our Contact Page](contact.md) to begin your journey today.
 
 > _L!ft Off: Transforming Ideas, One Website at a Time._
