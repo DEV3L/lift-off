@@ -1,18 +1,16 @@
 /* Define the Dank Mono font */
 @font-face {
   font-family: "Dank Mono";
-  src: url("../fonts/DankMono-Regular.woff2") format("woff2"),
-    url("../fonts/DankMono-Regular.woff") format("woff"),
-    url("../fonts/DankMono-Regular.ttf") format("truetype");
+  src: url("../assets/fonts/DankMono-Regular.woff2") format("woff2"),
+    url("../assets/fonts/DankMono-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Dank Mono";
-  src: url("../fonts/DankMono-Italic.woff2") format("woff2"),
-    url("../fonts/DankMono-Italic.woff") format("woff"),
-    url("../fonts/DankMono-Italic.ttf") format("truetype");
+  src: url("../assets/fonts/DankMono-Italic.woff2") format("woff2"),
+    url("../assets/fonts/DankMono-Italic.ttf") format("truetype");
   font-weight: normal;
   font-style: italic;
 }
